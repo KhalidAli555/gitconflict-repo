@@ -1,3 +1,4 @@
 <<<<<<< HEAD
 "changed by feature A and feature B" " 
  
+"this is feature-1 branch" 
