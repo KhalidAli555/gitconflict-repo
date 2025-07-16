@@ -1,1 +1,1 @@
-"line from base" 
+"changed by feature B" 
