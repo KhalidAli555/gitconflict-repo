@@ -1,1 +1,3 @@
-"changed by feature A" 
+<<<<<<< HEAD
+"changed by feature A and feature B" " 
+ 
